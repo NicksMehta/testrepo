@@ -18,6 +18,7 @@ public class Address {
 	public String getCity() {
 		return this.city;
 	}
+
 	
 	asdasd
 	asd
@@ -25,6 +26,10 @@ public class Address {
 	asd
 	asdasakslnd
 	ja
+
+
+	public void test() { }
+
 	private static void setStreetName(String streetName) {
 		this.streetName = streetName;
 	}
