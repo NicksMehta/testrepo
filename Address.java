@@ -10,7 +10,7 @@ public class Address {
 	public Integer streetNo;
 	
 	public String city;
-	public String country;
+	public String citycountry;
 
 	public String district;
 
