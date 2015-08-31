@@ -7,6 +7,8 @@
 public class Address {
 	public String streetName;
 	
+	public Integer streetNo;
+	
 	public String city;
 	public String country;
 
@@ -18,6 +20,10 @@ public class Address {
 	}
 	public void setStreetName(String streetName) {
 		this.streetName = streetName;
+	}
+	
+	public Integer getStreeNo() {
+		return this.streetNo;
 	}
 	
 	public String getCountry() {
