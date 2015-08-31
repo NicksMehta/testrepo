@@ -18,6 +18,7 @@ public class Address {
 	public String getCity() {
 		return this.city;
 	}
+	public void test() { }
 	public void setStreetName(String streetName) {
 		this.streetName = streetName;
 	}
