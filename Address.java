@@ -8,7 +8,7 @@ public class Address {
 	public String streetName;
 	
 	public String city;
-	public String country;
+	public String citycountry;
 
 	public String district;
 
