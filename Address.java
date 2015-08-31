@@ -9,6 +9,9 @@ public class Address {
 	
 	public String city;
 	public String country;
+
+	public String district;
+
 	
 	public String getCity() {
 		return this.city;
