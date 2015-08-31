@@ -7,7 +7,7 @@
 public class Address {
 	public String streetName;
 	
-	public String city;
+	public String district;
 	
 	public String getCity() {
 		return this.city;
