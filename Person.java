@@ -1,6 +1,6 @@
 /**
  *
- * @author: Shubham
+ * @author: Niks
  */
 public class Person {
 	public String name;
@@ -9,6 +9,6 @@ public class Person {
 		return this.age;
 	}
 	public void setName(String name) {
-		this.name = name;
+		this.name = age
 	}
 }
