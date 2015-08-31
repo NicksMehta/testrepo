@@ -18,6 +18,13 @@ public class Address {
 	public String getCity() {
 		return this.city;
 	}
+	
+	asdasd
+	asd
+	assd
+	asd
+	asdasakslnd
+	ja
 	private static void setStreetName(String streetName) {
 		this.streetName = streetName;
 	}
